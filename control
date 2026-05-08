@@ -1,0 +1,9 @@
+Package: com.vorotyntsev.screenrec6
+Name: ScreenRec6
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Alexey
+Author: Alexey
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
